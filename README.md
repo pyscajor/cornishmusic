@@ -6,7 +6,7 @@ Each Thursday evening from 8pm-10pm at the Admiral Benbow pub in Penzance, there
 
 The session will feature local folk musicians and our favourite drummer (only one required!). The tunes will be led by John Gallagher on the melodeon but there should be ample opportunity for all-comers to join in.
 
-Initially, the following tunes are likely to be played but the list will be added to as we go along.
+Initially, the following tunes are likely to be played but the list will be added to as we go along. We have also [created a set list on Kesson](http://www.kesson.com/tunery/showsetlist.php?lr=16), with direct links to the scores and MIDI files.
 
 
 1. Bodmin Riding (G)
