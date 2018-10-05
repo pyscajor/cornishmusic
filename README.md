@@ -6,7 +6,7 @@ The session features local folk musicians and our favourite drummer (only one re
 
 Initially, the following tunes are likely to be played but the list will be added to as we go along. We have also [created a set list on Kesson](http://www.kesson.com/tunery/showsetlist.php?lr=16), with direct links to the scores and MIDI files.
 
-A [book of chords by John Gallagher to accompany 50 Cornish tunes](https://github.com/pyscajor/cornishmusic/blob/master/cornish-tune-chords-alphabetical.pdf) is also available to download and print. The book will always be a work in progress, so check back here for updates.
+A [book of chords by John Gallagher to accompany 50 Cornish tunes](https://github.com/pyscajor/cornishmusic/raw/master/cornish-tune-chords-alphabetical.pdf) is also available to download and print. The book will always be a work in progress, so check back here for updates.
 
 
 1. Bodmin Riding (G)
