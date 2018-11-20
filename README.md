@@ -1,6 +1,8 @@
 # Cornish Session at the Admiral Benbow, Penzance
 
-Each Thursday evening from 8pm-10pm at the Admiral Benbow pub in Penzance, there is a music session dedicated to Cornish music and some tunes which have, over the years, become associated with Cornwall. There may also be the occasional Cornish song.
+Each Thursday evening from 8pm-10pm at the Admiral Benbow pub in Penzance, there is a music session dedicated to Cornish music and some tunes which have, over the years, become associated with Cornwall. There may also be the occasional Cornish song. 
+
+It's a busy session. In October 2018 we averaged 10 musicians each week, and we were mainly in the upstairs bar area where there has even been dancing. Now it's quieter (and colder!) the session is likely to be downstairs by the fire. Not as roomy, but we squeeze in.
 
 The session features local folk musicians and our favourite drummer (only one required!). The tunes are led by John Gallagher on the melodeon and all-comers are encouraged to join in.
 
